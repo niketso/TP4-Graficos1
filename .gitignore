@@ -1,0 +1,14 @@
+
+HSLibrary/\.vs/
+
+HSLibrary/HSLibrary/Debug/
+
+HSLibrary/HSLibrary/objWin32/
+
+HSLibrary/HSLibrary/Release/
+
+HSLibrary/HSLibrary/x64/
+
+HSLibrary/Lib/
+
+*.db
